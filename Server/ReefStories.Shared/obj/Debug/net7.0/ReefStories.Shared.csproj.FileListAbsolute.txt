@@ -1,0 +1,12 @@
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.Shared\bin\Debug\net7.0\ReefStories.Shared.deps.json
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.Shared\bin\Debug\net7.0\ReefStories.Shared.dll
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.Shared\bin\Debug\net7.0\ReefStories.Shared.pdb
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.Shared\obj\Debug\net7.0\ReefStories.Shared.csproj.AssemblyReference.cache
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.Shared\obj\Debug\net7.0\ReefStories.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.Shared\obj\Debug\net7.0\ReefStories.Shared.AssemblyInfoInputs.cache
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.Shared\obj\Debug\net7.0\ReefStories.Shared.AssemblyInfo.cs
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.Shared\obj\Debug\net7.0\ReefStories.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.Shared\obj\Debug\net7.0\ReefStories.Shared.dll
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.Shared\obj\Debug\net7.0\refint\ReefStories.Shared.dll
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.Shared\obj\Debug\net7.0\ReefStories.Shared.pdb
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.Shared\obj\Debug\net7.0\ref\ReefStories.Shared.dll

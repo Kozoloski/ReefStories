@@ -1,0 +1,17 @@
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.DataAccess\bin\Debug\net7.0\ReefStories.DataAccess.deps.json
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.DataAccess\bin\Debug\net7.0\ReefStories.DataAccess.runtimeconfig.json
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.DataAccess\bin\Debug\net7.0\ReefStories.DataAccess.dll
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.DataAccess\bin\Debug\net7.0\ReefStories.DataAccess.pdb
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.DataAccess\bin\Debug\net7.0\ReefStories.Domain.dll
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.DataAccess\bin\Debug\net7.0\ReefStories.Domain.pdb
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.DataAccess\obj\Debug\net7.0\ReefStories.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.DataAccess\obj\Debug\net7.0\ReefStories.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.DataAccess\obj\Debug\net7.0\ReefStories.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.DataAccess\obj\Debug\net7.0\ReefStories.DataAccess.AssemblyInfo.cs
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.DataAccess\obj\Debug\net7.0\ReefStories.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.DataAccess\obj\Debug\net7.0\ReefStories.DataAccess.csproj.CopyComplete
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.DataAccess\obj\Debug\net7.0\ReefStories.DataAccess.dll
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.DataAccess\obj\Debug\net7.0\refint\ReefStories.DataAccess.dll
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.DataAccess\obj\Debug\net7.0\ReefStories.DataAccess.pdb
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.DataAccess\obj\Debug\net7.0\ReefStories.DataAccess.genruntimeconfig.cache
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.DataAccess\obj\Debug\net7.0\ref\ReefStories.DataAccess.dll

@@ -1,0 +1,12 @@
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.DTOs\bin\Debug\net7.0\ReefStories.DTOs.deps.json
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.DTOs\bin\Debug\net7.0\ReefStories.DTOs.dll
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.DTOs\bin\Debug\net7.0\ReefStories.DTOs.pdb
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.DTOs\obj\Debug\net7.0\ReefStories.DTOs.csproj.AssemblyReference.cache
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.DTOs\obj\Debug\net7.0\ReefStories.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.DTOs\obj\Debug\net7.0\ReefStories.DTOs.AssemblyInfoInputs.cache
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.DTOs\obj\Debug\net7.0\ReefStories.DTOs.AssemblyInfo.cs
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.DTOs\obj\Debug\net7.0\ReefStories.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.DTOs\obj\Debug\net7.0\ReefStories.DTOs.dll
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.DTOs\obj\Debug\net7.0\refint\ReefStories.DTOs.dll
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.DTOs\obj\Debug\net7.0\ReefStories.DTOs.pdb
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.DTOs\obj\Debug\net7.0\ref\ReefStories.DTOs.dll

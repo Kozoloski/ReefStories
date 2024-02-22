@@ -1,0 +1,12 @@
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.Mappers\bin\Debug\net7.0\ReefStories.Mappers.deps.json
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.Mappers\bin\Debug\net7.0\ReefStories.Mappers.dll
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.Mappers\bin\Debug\net7.0\ReefStories.Mappers.pdb
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.Mappers\obj\Debug\net7.0\ReefStories.Mappers.csproj.AssemblyReference.cache
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.Mappers\obj\Debug\net7.0\ReefStories.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.Mappers\obj\Debug\net7.0\ReefStories.Mappers.AssemblyInfoInputs.cache
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.Mappers\obj\Debug\net7.0\ReefStories.Mappers.AssemblyInfo.cs
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.Mappers\obj\Debug\net7.0\ReefStories.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.Mappers\obj\Debug\net7.0\ReefStories.Mappers.dll
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.Mappers\obj\Debug\net7.0\refint\ReefStories.Mappers.dll
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.Mappers\obj\Debug\net7.0\ReefStories.Mappers.pdb
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories.Mappers\obj\Debug\net7.0\ref\ReefStories.Mappers.dll
