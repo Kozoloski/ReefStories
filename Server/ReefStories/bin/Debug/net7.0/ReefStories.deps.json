@@ -870,6 +870,7 @@
       },
       "ReefStories.Helpers/1.0.0": {
         "dependencies": {
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "7.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.0",
           "ReefStories.DataAccess": "1.0.0"
