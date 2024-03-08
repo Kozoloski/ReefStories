@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using ReefStories.DataAccess.Identity;
 using ReefStories.Domain.Models.Identity;
 using ReefStories.Helpers.Extensions;
+using ReefStories.Shared.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -17,6 +18,8 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
+app.UseMiddleware<ExceptionMiddleware>();
+app.UseStatusCodePagesWithReExecute("/errors/{0}");
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {

@@ -1737,6 +1737,21 @@
         "runtime": {
           "bin/placeholder/ReefStories.Helpers.dll": {}
         }
+      },
+      "ReefStories.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
+          "Microsoft.Extensions.Hosting.Abstractions": "2.2.0",
+          "Swashbuckle.AspNetCore": "6.4.0"
+        },
+        "compile": {
+          "bin/placeholder/ReefStories.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ReefStories.Shared.dll": {}
+        }
       }
     }
   },
@@ -4737,6 +4752,11 @@
       "type": "project",
       "path": "../ReefStories.Helpers/ReefStories.Helpers.csproj",
       "msbuildProject": "../ReefStories.Helpers/ReefStories.Helpers.csproj"
+    },
+    "ReefStories.Shared/1.0.0": {
+      "type": "project",
+      "path": "../ReefStories.Shared/ReefStories.Shared.csproj",
+      "msbuildProject": "../ReefStories.Shared/ReefStories.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4745,6 +4765,7 @@
       "Microsoft.AspNetCore.OpenApi >= 7.0.3",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.0",
       "ReefStories.Helpers >= 1.0.0",
+      "ReefStories.Shared >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
@@ -4777,6 +4798,9 @@
           "projectReferences": {
             "C:\\Users\\Tomo\\Desktop\\ReefStories-Repo\\ReefStories\\Server\\ReefStories.Helpers\\ReefStories.Helpers.csproj": {
               "projectPath": "C:\\Users\\Tomo\\Desktop\\ReefStories-Repo\\ReefStories\\Server\\ReefStories.Helpers\\ReefStories.Helpers.csproj"
+            },
+            "C:\\Users\\Tomo\\Desktop\\ReefStories-Repo\\ReefStories\\Server\\ReefStories.Shared\\ReefStories.Shared.csproj": {
+              "projectPath": "C:\\Users\\Tomo\\Desktop\\ReefStories-Repo\\ReefStories\\Server\\ReefStories.Shared\\ReefStories.Shared.csproj"
             }
           }
         }

@@ -263,6 +263,75 @@
         }
       }
     },
+    "C:\\Users\\Tomo\\Desktop\\ReefStories-Repo\\ReefStories\\Server\\ReefStories.Shared\\ReefStories.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tomo\\Desktop\\ReefStories-Repo\\ReefStories\\Server\\ReefStories.Shared\\ReefStories.Shared.csproj",
+        "projectName": "ReefStories.Shared",
+        "projectPath": "C:\\Users\\Tomo\\Desktop\\ReefStories-Repo\\ReefStories\\Server\\ReefStories.Shared\\ReefStories.Shared.csproj",
+        "packagesPath": "C:\\Users\\Tomo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tomo\\Desktop\\ReefStories-Repo\\ReefStories\\Server\\ReefStories.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tomo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\Tomo\\Desktop\\ReefStories-Repo\\ReefStories\\Server\\ReefStories\\ReefStories.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -289,6 +358,9 @@
             "projectReferences": {
               "C:\\Users\\Tomo\\Desktop\\ReefStories-Repo\\ReefStories\\Server\\ReefStories.Helpers\\ReefStories.Helpers.csproj": {
                 "projectPath": "C:\\Users\\Tomo\\Desktop\\ReefStories-Repo\\ReefStories\\Server\\ReefStories.Helpers\\ReefStories.Helpers.csproj"
+              },
+              "C:\\Users\\Tomo\\Desktop\\ReefStories-Repo\\ReefStories\\Server\\ReefStories.Shared\\ReefStories.Shared.csproj": {
+                "projectPath": "C:\\Users\\Tomo\\Desktop\\ReefStories-Repo\\ReefStories\\Server\\ReefStories.Shared\\ReefStories.Shared.csproj"
               }
             }
           }

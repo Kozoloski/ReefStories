@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ReefStories.Helpers\ReefStories.Helpers.csproj" />
+    <ProjectReference Include="..\ReefStories.Shared\ReefStories.Shared.csproj" />
   </ItemGroup>
 
 </Project>
