@@ -82,3 +82,5 @@ C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories\obj\Debug\
 C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories\obj\Debug\net7.0\ReefStories.pdb
 C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories\obj\Debug\net7.0\ReefStories.genruntimeconfig.cache
 C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories\obj\Debug\net7.0\ref\ReefStories.dll
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories\bin\Debug\net7.0\ReefStories.Shared.dll
+C:\Users\Tomo\Desktop\ReefStories-Repo\ReefStories\Server\ReefStories\bin\Debug\net7.0\ReefStories.Shared.pdb

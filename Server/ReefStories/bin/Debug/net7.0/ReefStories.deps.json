@@ -12,6 +12,7 @@
           "Microsoft.AspNetCore.OpenApi": "7.0.3",
           "Microsoft.EntityFrameworkCore.Design": "7.0.0",
           "ReefStories.Helpers": "1.0.0",
+          "ReefStories.Shared": "1.0.0",
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "runtime": {
@@ -878,6 +879,16 @@
         "runtime": {
           "ReefStories.Helpers.dll": {}
         }
+      },
+      "ReefStories.Shared/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
+          "Microsoft.Extensions.Hosting.Abstractions": "2.2.0",
+          "Swashbuckle.AspNetCore": "6.4.0"
+        },
+        "runtime": {
+          "ReefStories.Shared.dll": {}
+        }
       }
     }
   },
@@ -1591,6 +1602,11 @@
       "sha512": ""
     },
     "ReefStories.Helpers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReefStories.Shared/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
